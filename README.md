@@ -1,3 +1,3 @@
 # ziyaullah-demo
 this is my first Git repository
-Author - ziyaullah turki
+Author - ziyaullah turki (ziyaulla-demo)
